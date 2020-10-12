@@ -1,0 +1,14 @@
+body {
+    font-family: Abril Fatface;
+    color: aliceblue;
+}
+h1{
+    background-color: #333;
+    text-align: center;
+    letter-spacing: 1.5px;
+    color: dodgerblue;
+    padding: 10px;
+}
+p{
+    font-size: 20px;
+}
